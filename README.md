@@ -6,7 +6,7 @@ Data-Driven Innovations In Supply Chain Management With Qlik Insights
 
 Dataset link :- https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
-Dataset Drive link :- https://drive.google.com/drive/folders/1qfPv34b7I7BCluHDYYgzYKjBdEA7xK_n?usp=sharing
+Dataset Drive link :- 
 
 Processed dataset link :-
 
@@ -24,4 +24,4 @@ Processed dataset drive link :- https://drive.google.com/drive/folders/1uPdhp7YC
 
 PROJECT DOCUMENTATION:- https://drive.google.com/file/d/1ZU3SGXOCNjLyzqD7-Bn6MaZ7f-27Q259/view?usp=drive_link
 
-DEMONSTRATION LINK :- https://drive.google.com/file/d/1JTMdjRvuv0COf-zCteXtglVqx4BBp-Y5/view?usp=drive_link
+DEMONSTRATION LINK :- https://drive.google.com/file/d/1cSBxibhnBTCEqASdK7Cuxa-xVurTveha/view?usp=drive_link
